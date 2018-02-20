@@ -5,7 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.vaadin.annotations.Theme;
 import com.vaadin.event.ShortcutAction;
 import com.vaadin.icons.VaadinIcons;
-import com.vaadin.server.FontAwesome;
 import com.vaadin.server.VaadinRequest;
 import com.vaadin.spring.annotation.SpringUI;
 import com.vaadin.ui.Button;
